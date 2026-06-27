@@ -33,3 +33,19 @@ while problem.is_hard():
 Feel free to dig through the directories. Solutions are categorized by problem number or advanced topic tags.
 
 If you spot an optimization or a cleaner way to handle an edge case, PRs are always welcome!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Hash Table
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+<!---LeetCode Topics End-->
