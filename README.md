@@ -21,3 +21,19 @@ A curated collection of elegant, optimized Python solutions for LeetCode's most 
 Feel free to dig through the directories. Solutions are categorized by problem number or advanced topic tags.
 
 If you spot an optimization or a cleaner way to handle an edge case, PRs are always welcome!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+<!---LeetCode Topics End-->
