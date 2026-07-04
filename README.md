@@ -55,10 +55,12 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 ## Breadth-First Search
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
@@ -87,4 +89,12 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
+## Depth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
