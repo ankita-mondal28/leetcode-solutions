@@ -42,6 +42,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
