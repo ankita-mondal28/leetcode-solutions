@@ -27,6 +27,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -94,6 +95,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -166,6 +168,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
