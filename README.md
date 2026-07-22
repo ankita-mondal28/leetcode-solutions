@@ -36,6 +36,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -61,6 +62,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
@@ -108,6 +110,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -180,4 +183,8 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
