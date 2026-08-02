@@ -28,6 +28,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -127,6 +128,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -149,6 +151,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -210,4 +213,8 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
