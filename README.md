@@ -47,6 +47,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3620-network-recovery-pathways](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
+| [3643-flip-square-submatrix-vertically](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -122,6 +123,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 | [1301-number-of-paths-with-max-score](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Shortest Path
 |  |
 | ------- |
@@ -184,6 +186,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
