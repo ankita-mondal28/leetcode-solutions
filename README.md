@@ -35,6 +35,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 | [1331-rank-transform-of-an-array](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/2029-stone-game-ix) |
@@ -123,6 +124,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 | ------- |
 | [1260-shift-2d-grid](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
