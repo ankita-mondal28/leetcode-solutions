@@ -34,6 +34,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 | [1301-number-of-paths-with-max-score](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -124,6 +125,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 | ------- |
 | [1260-shift-2d-grid](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -147,6 +149,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 | [0877-stone-game](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
