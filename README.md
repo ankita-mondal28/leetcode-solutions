@@ -36,6 +36,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 | [1406-stone-game-iii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -152,6 +153,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 | [1301-number-of-paths-with-max-score](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1872-stone-game-viii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -175,6 +177,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 | [0628-maximum-product-of-three-numbers](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -190,6 +193,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 ## Prefix Sum
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
@@ -249,16 +253,19 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 | ------- |
 | [0877-stone-game](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
