@@ -55,6 +55,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 | [3643-flip-square-submatrix-vertically](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -132,6 +133,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
@@ -156,6 +158,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 | [1872-stone-game-viii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -209,6 +212,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Enumeration
 |  |
 | ------- |
