@@ -41,6 +41,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -61,6 +62,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -70,6 +72,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 | [1288-remove-covered-intervals](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
