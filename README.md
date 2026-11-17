@@ -86,6 +86,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 | [0008-string-to-integer-atoi](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -161,6 +162,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 | [1406-stone-game-iii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1872-stone-game-viii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1872-stone-game-viii) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -207,6 +209,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 ## Two Pointers
 |  |
 | ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
