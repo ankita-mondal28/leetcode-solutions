@@ -38,6 +38,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1929-concatenation-of-array](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/2029-stone-game-ix) |
@@ -239,6 +240,7 @@ If you spot an optimization or a cleaner way to handle an edge case, PRs are alw
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankita-mondal28/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
